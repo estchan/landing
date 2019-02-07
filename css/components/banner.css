@@ -1,0 +1,10 @@
+.banner {
+ background-image: url('../../images/you-banner.jpg');
+ height: 700px;
+}
+
+.banner-content {
+  color: white;
+  padding-left: 140px;
+  padding-top: 250px;
+}

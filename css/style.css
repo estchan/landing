@@ -1,0 +1,29 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:700|Major+Mono+Display');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+@import url("components/container.css");
+@import url("components/avatars.css");
+@import url("components/buttons.css");
+@import url("components/banner.css");
+@import url("components/cards.css");
+@import url("components/footer.css");
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: Open Sans;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Major Mono Display', monospace;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+/* Custom design below! */
+

@@ -1,0 +1,25 @@
+.btn-redeem {
+  object-fit: cover;
+  background-color: black;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  background-size: cover;
+  background-position: center;
+  color: red;
+  transition: .5s;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0s;
+  border: 2px dotted white;
+  transition: .5s;
+  font-size: 10px;
+  font-weight: bolder;
+}
+.btn-redeem:hover {
+  background-image: url("../../images/joe-4.gif");
+  color: transparent;
+  transition: .5s;
+}
+
